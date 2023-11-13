@@ -1,3 +1,3 @@
-# getitdone-todo-list
+# get it done (web based todo-list)
 
 Info Coming soon...
